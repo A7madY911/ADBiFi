@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+	>
+
+	<ImageView
+		android:layout_width="111dp"
+		android:layout_height="125dp"
+		android:id="@+id/iconImageView"
+		android:layout_gravity="center"
+		android:src="@drawable/adb_icon"
+		android:layout_marginTop="@dimen/main_icon_margin_top"
+		android:contentDescription="Logo"/>
+
+</LinearLayout>
+
